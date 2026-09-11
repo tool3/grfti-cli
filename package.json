@@ -1,0 +1,52 @@
+{
+  "name": "grfti-cli",
+  "version": "0.1.0",
+  "description": "Spray color and gradients across your terminal, from the command line.",
+  "bin": {
+    "grfti": "dist/cli.js"
+  },
+  "main": "dist/cli.js",
+  "types": "dist/cli.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "start": "ts-node src/cli.ts",
+    "typecheck": "tsc -p tsconfig.test.json",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "prepublishOnly": "npm run typecheck && npm test && npm run build"
+  },
+  "keywords": [
+    "gradient",
+    "color",
+    "terminal",
+    "ansi",
+    "truecolor",
+    "oklab",
+    "cli",
+    "grfti"
+  ],
+  "author": "Tal Hayut",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tool3/grfti-cli"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "grfti": "file:../grfti",
+    "yargs": "^17.7.2"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "@types/yargs": "^17.0.32",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.2",
+    "vitest": "^4.0.18"
+  }
+}
