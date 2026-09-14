@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 770.4 632" width="770.4" height="632">
+  <defs>
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff7a59"/>
+      <stop offset="50%" stop-color="#c860a8"/>
+      <stop offset="100%" stop-color="#7c2bff"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="770.4" height="632" fill="url(#bg-gradient)" rx="18" ry="18"/>
+  <g transform="translate(44, 44)">
+    <rect x="0" y="0" width="682.4" height="544" fill="#1e1e1e" rx="10" ry="10"/>
+    <g class="title-bar">
+      <circle cx="16" cy="20" r="6" fill="#ff5f56"/>
+    <circle cx="36" cy="20" r="6" fill="#ffbd2e"/>
+    <circle cx="56" cy="20" r="6" fill="#27c93f"/>
+    <text x="341.2" y="24.67" fill="#c9d1d9" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="12" text-anchor="middle" opacity="0.8">grfti — painting text</text>
+    </g>
+    <g class="text">
+      <text y="76" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#f0f6fc" font-weight="bold">  the first argument is the gradient, the rest is the text</tspan></text>
+      <text y="116.6" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#5ee7df">❯</tspan><tspan x="47.2" fill="#c9d1d9"> </tspan><tspan x="55.6" fill="#f0f6fc" font-weight="bold">grfti sunset &quot;hello world&quot;</tspan></text>
+      <text y="136.9" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#ff7a59">h</tspan><tspan x="47.2" fill="#f4766e">e</tspan><tspan x="55.6" fill="#e8717f">l</tspan><tspan x="64" fill="#dd6c8e">l</tspan><tspan x="72.4" fill="#d2679b">o</tspan><tspan x="80.8" fill="#c860a8"> </tspan><tspan x="89.2" fill="#b75cbb">w</tspan><tspan x="97.6" fill="#a756cc">o</tspan><tspan x="106" fill="#984dde">r</tspan><tspan x="114.4" fill="#8940ee">l</tspan><tspan x="122.8" fill="#7c2bff">d</tspan></text>
+      <text y="177.5" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#5ee7df">❯</tspan><tspan x="47.2" fill="#c9d1d9"> </tspan><tspan x="55.6" fill="#f0f6fc" font-weight="bold">grfti &quot;pink, cyan&quot; &quot;hello world&quot;</tspan></text>
+      <text y="197.8" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#ffc0cb">h</tspan><tspan x="47.2" fill="#f3c7d0">e</tspan><tspan x="55.6" fill="#e7cfd5">l</tspan><tspan x="64" fill="#d9d5db">l</tspan><tspan x="72.4" fill="#cbdce0">o</tspan><tspan x="80.8" fill="#bbe2e5"> </tspan><tspan x="89.2" fill="#a9e8ea">w</tspan><tspan x="97.6" fill="#94eeef">o</tspan><tspan x="106" fill="#7bf4f5">r</tspan><tspan x="114.4" fill="#59fafa">l</tspan><tspan x="122.8" fill="#00ffff">d</tspan></text>
+      <text y="238.4" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#5ee7df">❯</tspan><tspan x="47.2" fill="#c9d1d9"> </tspan><tspan x="55.6" fill="#f0f6fc" font-weight="bold">grfti &quot;#ff7a59, #7c2bff&quot; &quot;hello world&quot;</tspan></text>
+      <text y="258.7" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#ff7a59">h</tspan><tspan x="47.2" fill="#f07972">e</tspan><tspan x="55.6" fill="#e17687">l</tspan><tspan x="64" fill="#d37399">l</tspan><tspan x="72.4" fill="#c56faa">o</tspan><tspan x="80.8" fill="#b769b9"> </tspan><tspan x="89.2" fill="#aa62c8">w</tspan><tspan x="97.6" fill="#9d5ad6">o</tspan><tspan x="106" fill="#914fe4">r</tspan><tspan x="114.4" fill="#8641f2">l</tspan><tspan x="122.8" fill="#7c2bff">d</tspan></text>
+      <text y="299.3" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#5ee7df">❯</tspan><tspan x="47.2" fill="#c9d1d9"> </tspan><tspan x="55.6" fill="#f0f6fc" font-weight="bold">grfti &quot;gradient(green, yellow):reverse&quot; &quot;hello world&quot;</tspan></text>
+      <text y="319.6" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#ffff00">h</tspan><tspan x="47.2" fill="#e9f200">e</tspan><tspan x="55.6" fill="#d3e500">l</tspan><tspan x="64" fill="#bed800">l</tspan><tspan x="72.4" fill="#a8cb00">o</tspan><tspan x="80.8" fill="#92bf00"> </tspan><tspan x="89.2" fill="#7cb200">w</tspan><tspan x="97.6" fill="#66a500">o</tspan><tspan x="106" fill="#4e9900">r</tspan><tspan x="114.4" fill="#328c00">l</tspan><tspan x="122.8" fill="#008000">d</tspan></text>
+      <text y="360.2" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#f0f6fc" font-weight="bold">  one color is a gradient with one stop</tspan></text>
+      <text y="400.8" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#5ee7df">❯</tspan><tspan x="47.2" fill="#c9d1d9"> </tspan><tspan x="55.6" fill="#f0f6fc" font-weight="bold">grfti hotpink &quot;just this color&quot;</tspan></text>
+      <text y="421.1" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#ff69b4">just this color</tspan></text>
+      <text y="461.7" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#767676">quote anything with spaces or parentheses — it is still one shell argument</tspan></text>
+    </g>
+    <text y="522" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="10" xml:space="preserve"><tspan x="540.4" fill="#767676">grfti-cli + shellfie</tspan></text>
+  </g>
+</svg>

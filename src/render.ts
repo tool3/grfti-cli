@@ -104,7 +104,7 @@ export const describeColor = (input: string, depth?: ColorDepth): string => {
   ];
 
   return [
-    `  ${value.bg(SWATCH)}`,
+    `  ${value(SWATCH)}`,
     '',
     ...rows.map(([label, text]) => `  ${label.padEnd(11)} ${text}`),
   ].join('\n');
